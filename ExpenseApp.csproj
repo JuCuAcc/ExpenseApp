@@ -189,6 +189,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ExpenseAppDB.sql" />
+    <Content Include="v2.txt" />
     <Content Include="v1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
